@@ -11,8 +11,8 @@ android {
         applicationId "com.firex.bgmi_wallpapers"
         minSdk 21
         targetSdk 32
-        versionCode 10
-        versionName "1.0"
+        versionCode 15
+        versionName "1.5"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
